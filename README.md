@@ -10,12 +10,12 @@ The server is written in NodeJS (Express) and the frontend is NextJS.
 ## Setup 
 
 ### Frontend
-```
+```bash
 npm install && npm run build && npm run start
 ```
 
 ### Backend
-```
+```bash
 npm install && npm run build && npm run start
 ```
 
